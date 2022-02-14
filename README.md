@@ -5,6 +5,6 @@
 
 To run:  
     
-    - Place Region(CSV), and Population+Config(TXT) files into /virussum/  
+    - Place Region(CSV), and Population+Config(TXT) files into /virussim/  
     - make  
     - ./output
